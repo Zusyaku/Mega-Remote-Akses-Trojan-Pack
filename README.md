@@ -1,4 +1,8 @@
 # MeGa-RAT-Pack
+
+This video is for educational purposes only; viewers should not attempt to infect any computer with a virus unless they have prior consent, legal authority, and are doing so for testing/educational purposes; and the video contains the footage of testing a virus on a Virtual Machine (VM), which means no people or machines were negatively impacted or harmed in the making of the video. Also, users should not try to replicate this (virus testing) at home without adequate prior knowledge or supervision, and they should only do so with their own computers; finally, they should never break the law in any way with the use of viruses, and if they do, neither I nor YouTube is responsible.
+
+
 Remote Administration Tools &amp; Remote access trojans : MEGA RAT PACK by B®AGA
 <br><br>
 https://i.ibb.co/RDd28tD/rat-list.png
